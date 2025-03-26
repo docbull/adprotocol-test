@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/adprotocol-test/static/css/main.9833fdc4.css",
+    "main.js": "/adprotocol-test/static/js/main.12ae6cc9.js",
+    "static/js/453.f8b0f9e1.chunk.js": "/adprotocol-test/static/js/453.f8b0f9e1.chunk.js",
+    "static/media/5.png": "/adprotocol-test/static/media/5.6e52fc062beb3c0e01ed.png",
+    "static/media/6.jpg": "/adprotocol-test/static/media/6.7e16364bd15178bd1042.jpg",
+    "static/media/8.png": "/adprotocol-test/static/media/8.4d70146b9bf7229ec724.png",
+    "static/media/1.jpg": "/adprotocol-test/static/media/1.fce84b8aec26cb7921cf.jpg",
+    "static/media/2.jpeg": "/adprotocol-test/static/media/2.adce0d360f1afb212316.jpeg",
+    "static/media/7.jpeg": "/adprotocol-test/static/media/7.ae86cdbd3d08f00074e9.jpeg",
+    "static/media/3.jpeg": "/adprotocol-test/static/media/3.3fe728cfa14aef0cf4b1.jpeg",
+    "static/media/5.jpeg": "/adprotocol-test/static/media/5.642c7975ed70bf7d5404.jpeg",
+    "static/media/1.jpeg": "/adprotocol-test/static/media/1.79a4cd5b2cb6acdb597c.jpeg",
+    "static/media/4.jpeg": "/adprotocol-test/static/media/4.b88a091dfeab141e13e4.jpeg",
+    "static/media/4.webp": "/adprotocol-test/static/media/4.2b020305e272b79a7765.webp",
+    "static/media/5.webp": "/adprotocol-test/static/media/5.d1d7c783cf9d76976446.webp",
+    "static/media/7.webp": "/adprotocol-test/static/media/7.fb2c29affa0af2e3fd1e.webp",
+    "static/media/3.webp": "/adprotocol-test/static/media/3.652507c632c6c61d3028.webp",
+    "static/media/2.webp": "/adprotocol-test/static/media/2.056a571c689fe66878b7.webp",
+    "static/media/6.webp": "/adprotocol-test/static/media/6.7290a52f17cbdddd5180.webp",
+    "static/media/6.png": "/adprotocol-test/static/media/6.97166d47d47deac19aa6.png",
+    "static/media/1.webp": "/adprotocol-test/static/media/1.350b91d95ba727edac8e.webp",
+    "index.html": "/adprotocol-test/index.html",
+    "main.9833fdc4.css.map": "/adprotocol-test/static/css/main.9833fdc4.css.map",
+    "main.12ae6cc9.js.map": "/adprotocol-test/static/js/main.12ae6cc9.js.map",
+    "453.f8b0f9e1.chunk.js.map": "/adprotocol-test/static/js/453.f8b0f9e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9833fdc4.css",
+    "static/js/main.12ae6cc9.js"
+  ]
+}
